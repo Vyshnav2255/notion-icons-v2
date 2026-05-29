@@ -30,9 +30,6 @@ defaults:
     values:
       layout: "icon"
 
-plugins:
-  - jekyll-admin
-
 sass:
     style: compressed
 
